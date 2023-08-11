@@ -1,0 +1,43 @@
+@font-face {
+    font-family:Kanit-B;
+    src: url('fonts/Kanit-Medium.ttf');
+    font-display: swap;
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family:Kanit;
+    src: url('fonts/Kanit-Regular.ttf');
+    font-display: swap;
+    font-weight: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family:Kanit-L;
+    src: url('fonts/Kanit-Light.ttf');
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: Muli;
+    src: url('fonts/Muli-Regular.ttf');
+	font-display: swap;
+}
+@font-face {
+    font-family: Muli-B;
+    src: url('fonts/Muli-Bold.ttf');
+	font-display: swap;
+}
+@font-face {
+    font-family: Muli-L;
+    src: url('fonts/Muli-Bold.ttf');
+	font-display: swap;
+}
+@font-face {
+    font-family: Muli-SB;
+    src: url('fonts/Muli-SemiBold.ttf');
+	font-display: swap;
+}
